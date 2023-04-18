@@ -1,0 +1,21 @@
+C:\Users\Asror\source\repos\Linear equation\bin\Debug\net6.0-windows\Linear equation.exe
+C:\Users\Asror\source\repos\Linear equation\bin\Debug\net6.0-windows\Linear equation.deps.json
+C:\Users\Asror\source\repos\Linear equation\bin\Debug\net6.0-windows\Linear equation.runtimeconfig.json
+C:\Users\Asror\source\repos\Linear equation\bin\Debug\net6.0-windows\Linear equation.dll
+C:\Users\Asror\source\repos\Linear equation\bin\Debug\net6.0-windows\Linear equation.pdb
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation.csproj.AssemblyReference.cache
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation_MarkupCompile.cache
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation_MarkupCompile.lref
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation.g.resources
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation.AssemblyInfoInputs.cache
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation.AssemblyInfo.cs
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation.csproj.CoreCompileInputs.cache
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation.dll
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\refint\Linear equation.dll
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation.pdb
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\Linear equation.genruntimeconfig.cache
+C:\Users\Asror\source\repos\Linear equation\obj\Debug\net6.0-windows\ref\Linear equation.dll

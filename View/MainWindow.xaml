@@ -1,0 +1,19 @@
+﻿<Window x:Class="Linear_equation.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Linear_equation"
+        mc:Ignorable="d"
+        Title="Linear equation" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="Degree" Margin="0,10,0,0" Width="150" Height="150" HorizontalAlignment="Center" VerticalAlignment="Top" SelectionChanged="ListBox_SelectionChanged">
+            <ListBoxItem Uid="1" Content="линейная"/>
+            <ListBoxItem Uid="2" Content="квадратичная"/>
+            <ListBoxItem Uid="3" Content="кубическа"/>
+            <ListBoxItem Uid="4" Content="4-ой степени"/>
+            <ListBoxItem Uid="5" Content="5-ой степени"/>
+            <ListBoxItem Content="{Binding Path=}"/>
+        </ListBox>
+    </Grid>
+</Window>
